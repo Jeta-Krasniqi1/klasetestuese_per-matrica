@@ -1,8 +1,8 @@
 # klasetestuese_per-matrica
 testim i disa metodave ne lidhje me matricat dy dimensionale
 Klasa Testuese për Operacione me Matrica
-
-Përshkrimi
+                                                
+Përshkrimi: 
 
 Ky projekt përmban një klasë testuese Klasa_testuese, e cila përdoret për të demonstruar funksionimin e metodave të klasës Veprime_me_matrica. Testohen operacionet bazë mbi matricat, duke përfshirë:
 Gjenerimin e matricave me vlera të rastësishme.
