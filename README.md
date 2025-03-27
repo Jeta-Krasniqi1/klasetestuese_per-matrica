@@ -7,7 +7,7 @@ Përshkrimi:
 Ky projekt përmban një klasë testuese Klasa_testuese, e cila përdoret për të demonstruar funksionimin e metodave të klasës Veprime_me_matrica. Testohen operacionet bazë mbi matricat, duke përfshirë:
 Gjenerimin e matricave me vlera të rastësishme.
 Shfaqjen e matricave në ekran.
-Transpozimin e një matrice.
+Transpozimin e një matrice.               
 Shumëzimin e dy matricave.
 Funksionalitetet
 
