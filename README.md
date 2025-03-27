@@ -8,7 +8,7 @@ Ky projekt përmban një klasë testuese Klasa_testuese, e cila përdoret për t
 Gjenerimin e matricave me vlera të rastësishme.
 Shfaqjen e matricave në ekran.
 Transpozimin e një matrice.               
-Shumëzimin e dy matricave.
+Shumëzimin e dy matricave.                 
 Funksionalitetet
 
 1️⃣ Gjenerimi i Matricave
